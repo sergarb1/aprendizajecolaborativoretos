@@ -1,4 +1,4 @@
-# Aprendizaje colaborativo basado en retos
+# Aprendizaje colaborativo basado en retos: Material para implantación
 
 ***Actualizado - 28/08/2021***
 
