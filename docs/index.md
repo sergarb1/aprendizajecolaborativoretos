@@ -2,31 +2,64 @@
 
 ***Actualizado - 28/08/2021***
 
-Recopilamos información de tutoría aplicable a Ciclos Formativos.
-La información esta contextualizada para un CFGS DAM en Semipresencial en Comunidad Valenciana, pero es exportable fácilmente a otros estudios.
+Compartimos material relacionado con el proyecto de innovación "Aprendizaje colaborativo basado en retos"
+El material esta compartido bajo licencia Creative Commons BY-SA-NC.
 
 El material esta compartido bajo **licencia Creative Commons BY-SA-NC** y los fuentes del mismo los tenéis disponibles en 
-[https://github.com/sergarb1/documentostutoriaciclos/tree/master/documentos](https://github.com/sergarb1/documentostutoriaciclos/tree/master/documentos)
+[https://github.com/sergarb1/aprendizajecolaborativoretos/documentos](https://github.com/sergarb1/aprendizajecolaborativoretos/documentos)
 
 Aquí tenéis los enlaces al material.
 
-# Presentaciones CFGS DAM Semipresencial
 
-| [Presentación funcionamiento del CFGS DAM Semipresencial](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/Presentaci%C3%B3n%20DAM%20Semipresencial%20Serra%20Perenxisa.pdf) |
+# Presentaciones proyecto innovación "Aprendizaje colaborativo basado en retos"
 
-| [Presentación específica FCT, Dual y PFC](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/Presentaci%C3%B3n%20DAM%20para%20FCT%20y%20Proyecto%20Semipresencial%20Serra%20Perenxisa.pdf) |
+| [Presentación proyecto de innovación](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Proyecto%20Innovaci%C3%B3n%20-%20Propuesta%20retos%20colaborativos.pdf) |
 
-
-# Resumenes con información y legislación
-
-| [Resumen FCT (Formación en Centros de Trabajo)](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/FCT%20Normal%20CheatSheet.pdf) |
-
-| [Resumen PFC (Proyecto Fin Ciclo)](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/PFC%20CheatSheet.pdf) |
-
-| [Resumen convocatorias, renuncias y anulaciones](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/Convocatorias%2C%20renuncias%20y%20anulaciones%20-%20CheatSheet.pdf) |
-
-| [Resumen Convalidaciones](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/Convalidaciones%20-%20CheatSheet.pdf) |
+| [Presentación para profesores](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Proyecto%20Innovaci%C3%B3n%20-%20Explicaci%C3%B3n%20para%20profesores.pdf) |
 
 
-| [Resumen FP Dual](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/FP%20Dual%20CheatSheet.pdf) |
+# Ejemplo enunciado Reto
+
+| [Ejemplo enuciado Reto: Reto 0 (Avión de papel)](hhttps://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/EJEMPLO%20RETO%20-%20Presentaci%C3%B3n%20reto%20-%20Reto%200%20Avi%C3%B3n.pdf) |
+
+
+# Ejemplos y documentos base para distintas fases de los retos
+
+| [Paso 1: Presentación del reto](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Paso%201%20-%20Presentaci%C3%B3n%20reto%20-%20Marco%20trabajo%20ABR%20Colaborativo%20%5BBASE%5D.pdf) |
+
+| [Paso 2: Contrato de equipo (Simple)](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Paso%202%20-%20Contrato%20de%20equipo%20%5BSIMPLE%5D.pdf) |
+| [Paso 2: Contrato de equipo (Con cargos)](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Paso%202%20-%20Contrato%20de%20equipo%20%5BCARGOS%5D.pdf) |
+
+| [Paso 3: De problema a reto (Base)](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Paso%203%20-%20De%20problema%20a%20reto%20%5BBASE%5D.pdf) |
+| [Paso 3: De problema a reto (Ejemplo)](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Paso%203%20-%20De%20problema%20a%20reto%20%5BEJEMPLO%5D.pdf) |
+
+
+| [Paso 4: Parámetros (Base)](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Paso%204%20-%20Par%C3%A1metros%20%5BBASE%5D.pdf) |
+
+
+| [Paso 5: Obtener y organizar información (Base)](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Paso%205%20-%20Obtener%20y%20organizar%20informaci%C3%B3n%20%5BBASE%5D.pdf) |
+
+
+| [Paso 6: Propuestas generadas (Base)](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Paso%206%20-%20Propuestas%20generadas%20%5BBASE%5D.pdf) |
+
+
+| [Paso 7 y 8: Planificación propuesta (Base)](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Paso%207%20y%208%20-%20Planificaci%C3%B3n%20propuesta%20%5BBASE%5D.pdf) |
+
+# Rúbricas para evaluar las distintas fases de los retos
+
+| [Rúbrica: Nota individual final reto](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Nota%20individual%20reto.xlsx) |
+
+| [Rúbrica: Evaluación general (Normal)](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/R%C3%BAbrica%20Evaluaci%C3%B3n%20General%20-%20Normal%2C%20sin%20plan%20de%20pruebas.xlsx) |
+| [Rúbrica: Evaluación general (Con "Plan de pruebas")](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/R%C3%BAbrica%20Evaluaci%C3%B3n%20General%20-%20Con%20plan%20de%20pruebas.xlsx) |
+
+| [Rúbrica: Evaluación competencias transversales](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/R%C3%BAbrica%20Evaluaci%C3%B3n%20Individual%20Competencias%20Generales%20Transversales.xlsx) |
+
+
+| [Rúbrica: Evaluación ténica grupal (depende del módulo)](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/R%C3%BAbrica%20T%C3%A9cnica%20Grupal%20-%20Depende%20del%20m%C3%B3dulo.xlsx) |
+
+
+| [Rúbrica: Co-evaluación entre compañeros](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/R%C3%BAbrica%20co-evaluaci%C3%B3n%20compa%C3%B1eros.xlsx) |
+
+
+
 
