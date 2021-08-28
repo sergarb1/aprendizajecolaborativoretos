@@ -1,14 +1,12 @@
-# Documentos -Aprendizaje colaborativo basado en retos-
+# Aprendizaje colaborativo basado en retos
 
 ***Actualizado - 28/08/2021***
 
-Compartimos material relacionado con el proyecto de innovación "Aprendizaje colaborativo basado en retos"
-El material esta compartido bajo licencia Creative Commons BY-SA-NC.
+Compartimos material relacionado con el proyecto de innovación "Aprendizaje colaborativo basado en retos".
 
 El material esta compartido bajo **licencia Creative Commons BY-SA-NC** y los fuentes del mismo los tenéis disponibles en 
 [https://github.com/sergarb1/aprendizajecolaborativoretos/documentos](https://github.com/sergarb1/aprendizajecolaborativoretos/documentos)
 
-Aquí tenéis los enlaces al material.
 
 
 # Presentaciones proyecto innovación "Aprendizaje colaborativo basado en retos"
