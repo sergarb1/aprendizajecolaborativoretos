@@ -15,7 +15,7 @@ El material esta compartido bajo **licencia Creative Commons BY-SA-NC** y los fu
 
 # Ejemplo enunciado Reto
 
-| [Ejemplo enuciado Reto: Reto 0 (Avión de papel)](hhttps://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/EJEMPLO%20RETO%20-%20Presentaci%C3%B3n%20reto%20-%20Reto%200%20Avi%C3%B3n.pdf) |
+| [Ejemplo enuciado Reto: Reto 0 (Avión de papel)](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/EJEMPLO%20RETO%20-%20Presentaci%C3%B3n%20reto%20-%20Reto%200%20Avi%C3%B3n.pdf) |
 
 # Ejemplos y documentos base para distintas fases de los retos
 
