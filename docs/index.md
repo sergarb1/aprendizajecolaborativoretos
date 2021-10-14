@@ -19,6 +19,6 @@ El material esta compartido bajo **licencia Creative Commons BY-SA-NC** y los fu
 
 # Ejemplos de retos con enunciados, documentos para alumnado y rúbricas
 
-| [Ejemplo Reto (documentos completos) - Dockeritzacio d'un entorn python](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Paso%201%20-%20Presentaci%C3%B3n%20reto%20-%20Marco%20trabajo%20ABR%20Colaborativo%20%5BBASE%5D.pdf) |
+| [Ejemplo Reto (documentos completos) - Dockeritzacio d'un entorn python](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Ejemplo%20Reto%20(documentos%20completos)%20-%20Dockeritzacio%20dun%20entorn%20python.zip) |
 
-| [Ejemplo Reto (documentos simplificados) - Implantant un SGE a un negoci](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Paso%202%20-%20Contrato%20de%20equipo%20%5BSIMPLE%5D.pdf) |
+| [Ejemplo Reto (documentos simplificados) - Implantant un SGE a un negoci](https://github.com/sergarb1/aprendizajecolaborativoretos/raw/master/documentos/Ejemplo%20Reto%20(documentos%20simplificados)%20-%20Implantant%20un%20SGE%20a%20un%20negoci.zip) |
